@@ -1,0 +1,11 @@
+- Línea 1: n= número de plazas
+
+- Líneas 2 hasta n+1: Nombres de las plazas
+- Líneas n+2 hasta 2*n+2: Las conexiones desde la primera plaza hasta la última: Un valor real con el peso+ un espacio + El nombre de la calle. Si no hay conexión entre las plazas, el valor -1 únicamente.
+
+- El resto de líneas: Las demás filas desde la plaza 2, 3, etc.
+
+
+Ver un ejemplo de este formato en el fichero "datos.dat".
+
+NOTA: Los nombres de plazas y calles no podrán tener más de 1000 caracteres.
